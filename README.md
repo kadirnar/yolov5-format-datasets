@@ -8,7 +8,7 @@
 - Xml Formatındaki Dosyaları Silme
 - Veri Setinizi Yolov5 Formatına Göre Bölme
 - Veri Setini Train,Test ve Val Şekilde Bölme
-- Veri Setini %80,%10,%10 Ayırma
+- Veri Setini train: %80, test: %10, val: %10 Ayırma
 
 Örnek Format: 
 ```
