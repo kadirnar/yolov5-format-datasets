@@ -5,6 +5,8 @@
 - Xml Formatındaki Veri Setini .Txt Formatına Çevirme
 - Xml Formatındaki Dosyaları Silme
 - Veri Setinizi Yolov5 Formatına Göre Bölme
+- Veri Setini Train,Test ve Val Şekilde Bölme
+- Veri Setini %80,%10,%10 Ayırma
 
 Örnek Format: 
 ```
@@ -34,10 +36,6 @@ datasets/
             ...
             img_999.txt
 ```
-- Veri Setini Train,Test ve Val Şekilde Bölme
-- Veri Setini %80,%10,%10 Ayırma
-
-
 
 
 
