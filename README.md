@@ -1,6 +1,6 @@
 # Veri Setinizi Yolov5 Formatına Dönüştürün!
 
-<img height="350" src="/images/yolo.png"/>
+<img height="250" src="/images/yolo.png"/>
 
 ### Bu Repo da Neler Var?
 
