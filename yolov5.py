@@ -106,6 +106,9 @@ def remove_xml():
     txt_files = glob.glob('*.xml')
 
 remove_xml()
+
+# Bu işlemi yaptıktan annotations dosyasında olacaksınız. Tekrardan ana dizine gitmeniz gerekecektir. Yoksa hata alacaksınız.
+
 #%% Veri Setini %80-%10-%10 Train-Test-Val Olarak Bölme
 
 images = [os.path.join('images', x) for x in os.listdir('images')]
